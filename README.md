@@ -13,4 +13,4 @@ minecraft://?add External Server= (Aquí va el nombre del servidor)|(ip:puerto)
 
 también tengo una herramienta para crearlos más rápidamente y seguro :)!
 
-https://www.joinmc.sytes.net?ip:puerto
+https://joinmc.sytes.net/?ip:puerto
