@@ -3,6 +3,7 @@ Una guia para poder hacer urls,  para agregar automáticamente el servidor en tu
 
 
 #Como Crearlos
+
 1- Para Crearlos necesitas este link:
 minecraft://?add External Server= (Aquí va el nombre del servidor)|(ip:puerto) 
 
